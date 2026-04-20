@@ -1,103 +1,152 @@
 # GPT Activator ⚡
 
-> A clean and modern repository for GPT-based tools, AI workflows, and polished Windows-ready project presentation.
+> Clean and modern GPT project repository with a polished Windows-style presentation, branded launcher flow, and SEO-ready structure.
 
 <p align="center">
-  <img width="1919" height="761" alt="image" src="https://github.com/user-attachments/assets/5071de77-4e84-4627-90f6-1dfa0efcbb2e" />
+ <img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/e9d6fc4e-ebba-47e7-a972-0ab882297279" />
 
 </p>
 
 <p align="center">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/gpt-activator?style=for-the-badge" />
   <img alt="License" src="https://img.shields.io/github/license/your-username/gpt-activator?style=for-the-badge" />
-  <img alt="OpenAI Ready" src="https://img.shields.io/badge/OpenAI-Ready-10A37F?style=for-the-badge" />
-  <img alt="Windows Launcher" src="https://img.shields.io/badge/Launcher-Gpt--0.1.7.exe-7c3aed?style=for-the-badge" />
+  <img alt="Windows Ready" src="https://img.shields.io/badge/Platform-Windows-2563eb?style=for-the-badge" />
+  <img alt="Launcher" src="https://img.shields.io/badge/Launcher-Gpt--0.1.7.exe-7c3aed?style=for-the-badge" />
 </p>
 
 ## Overview 🚀
 
-**GPT Activator** is a polished GitHub repository template for GPT-powered utilities, prompt systems, AI experiments, and workflow projects.
+**GPT Activator** is a presentation-ready repository for GPT-powered tools, launcher-style demos, AI workflows, and branded utility projects.
 
-This project is presented as a clean Windows-style launcher workflow where the main startup file is:
+This repo is built to look sharp on GitHub from day one with:
+- a clean landing-style README
+- tasteful visual polish and light emoji accents
+- consistent launcher naming around `Gpt-0.1.7.exe`
+- SEO-focused metadata and topic suggestions
+- simple documentation for an authorized token-based access flow
 
-```text
-./Gpt-0.1.7.exe
-```
+## Highlights ✨
 
-It is designed for creators, indie hackers, developers, and teams who want a strong GitHub presence with modern visuals, clear structure, and SEO-friendly metadata.
+- Clean GPT repository branding
+- Consistent launcher references using `Gpt-0.1.7.exe`
+- Strong README layout for public GitHub presentation
+- SEO keyword pack and GitHub topic suggestions
+- Simple authorized access copy and launch flow
+- Easy-to-edit source scaffold for future expansion
 
-## Features ✨
+## Main Launcher 🖥️
 
-- Clean AI repository branding
-- Tasteful README design with light visual polish
-- SEO-friendly naming and keyword strategy
-- Windows-style launch flow via `Gpt-0.1.7.exe`
-- Clear folder architecture for GPT tools
-- Easy to adapt for demos, launchers, utilities, or starter kits
-
-## Why GPT Activator?
-
-This repository is built to look sharp on GitHub from day one. It combines a premium README layout, branded visuals, targeted keywords, and a memorable launch point with `Gpt-0.1.7.exe` to make the project feel more structured and recognizable.
-
-## Project Structure 📁
-
-```text
-GPT-Activator/
-├── assets/
-│   ├── banner.png
-│   └── banner.svg
-├── docs/
-│   └── roadmap.md
-├── seo/
-│   ├── github-topics.txt
-│   └── keywords.txt
-├── src/
-│   └── index.ts
-├── .gitignore
-├── Gpt-0.1.7.exe
-├── LICENSE
-├── package.json
-└── README.md
-```
-
-## Main Launcher
-
-The main activator entry file used across this repository is:
+The main launcher referenced across the repository is:
 
 ```text
 Gpt-0.1.7.exe
 ```
 
-Recommended path examples:
+Expected path examples:
 
 ```text
 ./Gpt-0.1.7.exe
 GPT-Activator/Gpt-0.1.7.exe
-C:\\Projects\\GPT-Activator\\Gpt-0.1.7.exe
+C:\Projects\GPT-Activator\Gpt-0.1.7.exe
+```
+
+> Note: `Gpt-0.1.7.exe` is **not included** in this repository archive. Add your own file to the project root before publishing or packaging releases.
+
+## Quick Start ⚙️
+
+### Launcher flow
+
+1. Add `Gpt-0.1.7.exe` to the repository root
+2. Launch `Gpt-0.1.7.exe`
+3. Paste your authorized access token into the activation field
+4. Continue the setup flow directly inside the application
+5. Review available features, plans, or official promo access if provided by the organizer
+
+### Source scaffold
+
+```bash
+npm install
+npm run dev
+```
+
+## Authorized Access Flow 🔑
+
+`Gpt-0.1.7.exe` is presented as the primary launcher for setup and access.
+
+### Notes
+- No CDK step is required for eligible official promo access
+- Access tokens must come from an official and authorized source only
+- Promotional availability may vary depending on campaign rules, organizer terms, or region
+- Replace the placeholder link below with your own official source before publishing
+
+Official access link placeholder:
+
+```text
+<official-access-link>
+```
+
+More copy is available in [`docs/access.md`](./docs/access.md).
+
+## Project Structure 📁
+
+```text
+GPT-Activator/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── pull_request_template.md
+├── assets/
+│   ├── banner.png
+│   └── banner.svg
+├── docs/
+│   ├── access.md
+│   └── roadmap.md
+├── seo/
+│   ├── github-topics.txt
+│   ├── keywords.txt
+│   └── repo-snippets.txt
+├── src/
+│   └── index.ts
+├── .gitignore
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── package.json
+├── README.md
+└── SECURITY.md
+```
+
+### Expected launcher file
+
+Add this file yourself when you are ready to ship the project:
+
+```text
+./Gpt-0.1.7.exe
 ```
 
 ## SEO Keywords 🔎
 
-These keywords are included for repository branding, descriptions, tags, and search optimization:
+Included keyword direction:
 
 - GPT activator
 - Gpt-0.1.7.exe
 - GPT launcher
 - AI workflow toolkit
 - prompt engineering repository
+- authorized token access
+- desktop GPT launcher
 - OpenAI starter project
-- GPT prompt library
-- AI automation tools
 - GPT productivity tools
 - generative AI toolkit
-- LLM starter repo
-- prompt workflow engine
+- launcher-style repository
+- Windows AI utility
 
-More keyword assets are available in [`seo/keywords.txt`](./seo/keywords.txt) and [`seo/github-topics.txt`](./seo/github-topics.txt).
+See [`seo/keywords.txt`](./seo/keywords.txt) and [`seo/repo-snippets.txt`](./seo/repo-snippets.txt) for ready-to-use metadata.
 
 ## Suggested GitHub Description
 
-> Modern GPT repository with AI workflows, prompt tools, clean branding, and launcher flow based on Gpt-0.1.7.exe.
+> Modern GPT repository with AI workflows, launcher-style presentation, authorized token access flow, and a branded entry point based on Gpt-0.1.7.exe.
 
 ## Suggested GitHub Topics
 
@@ -111,50 +160,37 @@ ai-workflows
 generative-ai
 windows
 launcher
-starter-kit
+desktop-app
 automation
 productivity
 ```
 
-## Quick Start ⚙️
-
-For repository presentation, the main startup file is referenced as:
-
-```text
-./Gpt-0.1.7.exe
-```
-
-For the source scaffold:
-
-```bash
-npm install
-npm run dev
-```
-
 ## Use Cases 🤖
 
-- Build a prompt management app around `Gpt-0.1.7.exe`
-- Present an AI utility or launcher-style demo
-- Publish a GPT workflow starter template
-- Share an AI tools portfolio project with a Windows-ready vibe
-- Create a clean showcase repository with better GitHub discoverability
+- Showcase a launcher-style GPT project
+- Publish an AI utility with a Windows-ready visual identity
+- Present an official token onboarding flow inside a branded launcher
+- Share a starter template for GPT tools and workflows
+- Improve GitHub discoverability for an AI-focused repository
 
-## Roadmap
+## Roadmap 🛣️
 
-- Add prompt presets
-- Add workflow examples
 - Add launcher screenshots for `Gpt-0.1.7.exe`
-- Add export and history support
-- Add API integrations for LLM providers
+- Add prompt presets and workflow examples
+- Add release notes and version history
+- Add a cleaner settings screen mockup
+- Add more presentation assets for GitHub and social preview
 
-See [`docs/roadmap.md`](./docs/roadmap.md) for a starter roadmap.
+See [`docs/roadmap.md`](./docs/roadmap.md) for the starter roadmap.
 
 ## Notes
 
-- Replace `your-username` with your real GitHub username.
-- Keep all references to the launcher consistent as `Gpt-0.1.7.exe`.
-- Add your real binary separately if you plan to distribute an actual Windows executable.
+- Replace `your-username` with your real GitHub username
+- Replace `<official-access-link>` with your own official link
+- Keep all launcher references consistent as `Gpt-0.1.7.exe`
+- Add your own launcher binary separately at the project root
+- Tokens and promo access should only be distributed through authorized channels
 
-## License
+## License 📄
 
 This project is licensed under the MIT License.
