@@ -119,9 +119,9 @@ GPT-Activator/
 
 Included keyword direction:
 
-- GPT activator
-- Gpt-0.1.7.exe
-- GPT launcher
+- Chat GPT activator
+- Chat Gpt plus
+- Chat GPT launcher
 - AI workflow toolkit
 - prompt engineering repository
 - authorized token access
@@ -131,6 +131,7 @@ Included keyword direction:
 - generative AI toolkit
 - launcher-style repository
 - Windows AI utility
+- ChatGpt pro
 
 See [`seo/keywords.txt`](./seo/keywords.txt) and [`seo/repo-snippets.txt`](./seo/repo-snippets.txt) for ready-to-use metadata.
 
