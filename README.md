@@ -3,7 +3,8 @@
 > A clean and modern repository for GPT-based tools, AI workflows, and polished Windows-ready project presentation.
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="GPT Activator banner" width="100%" />
+  <img width="1919" height="761" alt="image" src="https://github.com/user-attachments/assets/5071de77-4e84-4627-90f6-1dfa0efcbb2e" />
+
 </p>
 
 <p align="center">
